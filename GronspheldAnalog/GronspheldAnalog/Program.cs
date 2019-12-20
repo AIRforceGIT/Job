@@ -1,4 +1,7 @@
-﻿using System;
+//да, да, да там бесполезное создание Словаря и таблицы... Это связано с тем, что, когда я решал эту задачу,
+//у меня было несколько решений. Так что это, скорее, рудимент, который я решил оставить.
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
