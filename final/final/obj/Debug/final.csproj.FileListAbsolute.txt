@@ -1,0 +1,6 @@
+c:\users\sergey\documents\visual studio 2015\Projects\final\final\bin\Debug\final.exe.config
+c:\users\sergey\documents\visual studio 2015\Projects\final\final\bin\Debug\final.exe
+c:\users\sergey\documents\visual studio 2015\Projects\final\final\bin\Debug\final.pdb
+c:\users\sergey\documents\visual studio 2015\Projects\final\final\obj\Debug\final.exe
+c:\users\sergey\documents\visual studio 2015\Projects\final\final\obj\Debug\final.pdb
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\final\final\obj\Debug\final.csprojAssemblyReference.cache
