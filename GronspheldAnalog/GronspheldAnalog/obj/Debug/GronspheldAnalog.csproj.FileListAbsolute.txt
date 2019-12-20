@@ -1,0 +1,6 @@
+c:\users\sergey\documents\visual studio 2015\Projects\GronspheldAnalog\GronspheldAnalog\bin\Debug\GronspheldAnalog.exe.config
+c:\users\sergey\documents\visual studio 2015\Projects\GronspheldAnalog\GronspheldAnalog\bin\Debug\GronspheldAnalog.exe
+c:\users\sergey\documents\visual studio 2015\Projects\GronspheldAnalog\GronspheldAnalog\bin\Debug\GronspheldAnalog.pdb
+c:\users\sergey\documents\visual studio 2015\Projects\GronspheldAnalog\GronspheldAnalog\obj\Debug\GronspheldAnalog.exe
+c:\users\sergey\documents\visual studio 2015\Projects\GronspheldAnalog\GronspheldAnalog\obj\Debug\GronspheldAnalog.pdb
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\GronspheldAnalog\GronspheldAnalog\obj\Debug\GronspheldAnalog.csprojResolveAssemblyReference.cache
