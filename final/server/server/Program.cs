@@ -12,11 +12,11 @@ namespace Server
 
     public class Human
     {
-        public string FirstName;
-        public string SecondName;
-        public string Age;
-        public Genders Gender;
-        public string Colour;
+        private string FirstName;
+        private string SecondName;
+        private string Age;
+        private Genders Gender;
+        private string Colour;
 
         public Human(string _fn, string _sn, string _age, Genders _gn, string _clr)
         {

@@ -8,3 +8,16 @@ C:\Users\Sergey\source\repos\server\server\obj\Debug\netcoreapp3.0\server.Assemb
 C:\Users\Sergey\source\repos\server\server\obj\Debug\netcoreapp3.0\server.AssemblyInfo.cs
 C:\Users\Sergey\source\repos\server\server\obj\Debug\netcoreapp3.0\server.dll
 C:\Users\Sergey\source\repos\server\server\obj\Debug\netcoreapp3.0\server.pdb
+C:\Users\Sergey\Source\Repos\Job\final\server\server\bin\Debug\netcoreapp3.0\server.exe
+C:\Users\Sergey\Source\Repos\Job\final\server\server\bin\Debug\netcoreapp3.0\server.deps.json
+C:\Users\Sergey\Source\Repos\Job\final\server\server\bin\Debug\netcoreapp3.0\server.runtimeconfig.json
+C:\Users\Sergey\Source\Repos\Job\final\server\server\bin\Debug\netcoreapp3.0\server.runtimeconfig.dev.json
+C:\Users\Sergey\Source\Repos\Job\final\server\server\bin\Debug\netcoreapp3.0\server.dll
+C:\Users\Sergey\Source\Repos\Job\final\server\server\bin\Debug\netcoreapp3.0\server.pdb
+C:\Users\Sergey\Source\Repos\Job\final\server\server\obj\Debug\netcoreapp3.0\server.csprojAssemblyReference.cache
+C:\Users\Sergey\Source\Repos\Job\final\server\server\obj\Debug\netcoreapp3.0\server.AssemblyInfoInputs.cache
+C:\Users\Sergey\Source\Repos\Job\final\server\server\obj\Debug\netcoreapp3.0\server.AssemblyInfo.cs
+C:\Users\Sergey\Source\Repos\Job\final\server\server\obj\Debug\netcoreapp3.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Source\Repos\Job\final\server\server\obj\Debug\netcoreapp3.0\server.dll
+C:\Users\Sergey\Source\Repos\Job\final\server\server\obj\Debug\netcoreapp3.0\server.pdb
+C:\Users\Sergey\Source\Repos\Job\final\server\server\obj\Debug\netcoreapp3.0\server.genruntimeconfig.cache
