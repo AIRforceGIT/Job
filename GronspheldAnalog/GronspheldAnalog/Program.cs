@@ -82,8 +82,8 @@ namespace GronspheldAnalog
 
 
             Console.WriteLine("Выберете что вы хотите сделать: ");
-            Console.WriteLine("         1. Закодировать. ");
-            Console.WriteLine("         2. Раскодировать. ");
+            Console.WriteLine("         1. Зашифровать. ");
+            Console.WriteLine("         2. Расшифровать. ");
             Console.WriteLine("         3. Завершить. ");
             trash = Console.ReadLine();
           
@@ -92,7 +92,7 @@ namespace GronspheldAnalog
             if (trash == "1")
             {
                 Console.WriteLine(" ENCODING ... ");
-                Console.Write("Введите слово, которое вы хотите закодировать: ");
+                Console.Write("Введите слово, которое вы хотите зашифровать: ");
                 
                 EncWord = Console.ReadLine();
                 EncWord = EncWord.ToLower();
@@ -125,7 +125,7 @@ namespace GronspheldAnalog
             if (trash == "2")
             {
                 Console.WriteLine(" DECODING ... ");
-                Console.WriteLine("Введите слово, которое вы хотите раскодировать: ");
+                Console.WriteLine("Введите слово, которое вы хотите расшифровать: ");
 
                 DecWord = Console.ReadLine();
                 DecWord = DecWord.ToLower();
